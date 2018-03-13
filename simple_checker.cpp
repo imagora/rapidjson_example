@@ -1,5 +1,6 @@
 #include "simple_checker.h"
 #include <iostream>
+#include <algorithm>
 
 
 void SimpleChecker::CheckValue() {
